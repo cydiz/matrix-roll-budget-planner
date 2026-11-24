@@ -1,0 +1,1 @@
+{"name":"matrix-roll-budget-planner","version":"1.0.0","description":"Compare two independent Matrix roll budgets offline","license":"MIT","bin":{"matrix-roll-plan":"cli.js"},"files":["cli.js","odds.js"],"homepage":"https://parasitesimulator.org/matrix-odds"}

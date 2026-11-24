@@ -1,0 +1,8 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Matrix roll budget planner</title><link rel="stylesheet" href="style.css">
+<main><h1>Matrix roll budget planner</h1><p>Compare the chance of at least one Matrix in two plans. Each roll assumes an independent 1 in 10,000 chance.</p>
+<label>Plan A rolls <input id="a" inputmode="numeric" value="6932"></label>
+<label>Plan B rolls <input id="b" inputmode="numeric" value="23025"></label>
+<p id="result" aria-live="polite"></p><button id="save">Download comparison CSV</button>
+<p>Rounded percentages can look equal. The larger budget has the higher theoretical chance. Even a displayed 100% can conceal a small chance of missing.</p>
+<a target="_blank" rel="noopener noreferrer" href="https://parasitesimulator.org/matrix-odds">Parasite Simulator odds guide</a></main>
+<script src="odds.js"></script><script src="ui.js"></script></html>

@@ -1,0 +1,1 @@
+{"manifest_version":3,"version":"1.0.0","name":"Matrix roll budget planner","description":"Compare two roll budgets and download a CSV, entirely on your device.","action":{"default_popup":"index.html"}}

@@ -1,0 +1,1 @@
+The planner calculates on your device, uses no extension permissions or storage, and sends no input or usage data. A CSV is created only when you choose Download. The optional guide link opens the external website in a new tab.
